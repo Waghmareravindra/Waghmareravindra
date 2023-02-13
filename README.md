@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waghmareravindra
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning Dsa Using Cpp
 - 📫 How to reach me ... raviwagh2950@gmail.com
 - 
 
